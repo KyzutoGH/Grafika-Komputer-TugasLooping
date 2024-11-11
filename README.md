@@ -12,7 +12,7 @@
 |  |  |  |
 |--|--|--|
 |*No*| *Tugas* | *Detail* | *Lihat* |
-| 1 | [P5JS Looping]([https://kyzutogh.github.io/Grafika-Komputer-TugasLooping/]) | Tugas Grafika Komputer membuat looping |
+| 1 | [P5JS Looping](https://kyzutogh.github.io/Grafika-Komputer-TugasLooping/) | Tugas Grafika Komputer membuat looping |
 # SCREENSHOT PROGRAM (HANYA SNAPSHOT, SILAHKAN KLIK LINK UNTUK MELIHAT HASILNYA)
 ![P5JS ilusi](https://github.com/KyzutoGH/Grafika-Komputer-TugasLooping/blob/main/Looping.png)
 
